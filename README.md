@@ -16,7 +16,7 @@ Transforming logistics operations through data analytics, SAP MM, and real-world
 
 <h2 align="center">About Me</h2>
 <p align="center">
-Senior Transport & Logistics Professional with 20+ years experience, transitioning into SAP MM and Data Analytics. I'm a data enthusiast, passionate about transforming raw data into actionable insights. I enjoy working with real-world datasets, performing analysis, and visualizing results to support data-driven decision-making.
+Senior Transport & Logistics Professional with 20+ years experience, transitioning into SAP MM Consulting and Data Analytics. I'm a data enthusiast, passionate about transforming raw data into actionable insights. I enjoy working with real-world datasets, performing analysis, and visualizing results to support data-driven decision-making.
 </p>
 
 ---
