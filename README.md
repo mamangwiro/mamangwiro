@@ -6,7 +6,7 @@
 -->
 
 <h1 align="center">Hi, I'm Munyaradzi Mangwiro</h1>
-<h2 align="center">Logistics | SAP MM | Data Analysis</h2>
+<h2 align="center">Logistics | SAP MM Consulting | Data Analysis</h2>
 
 <p align="center">
 Transforming logistics operations through data analytics, SAP MM, and real-world business solutions.
